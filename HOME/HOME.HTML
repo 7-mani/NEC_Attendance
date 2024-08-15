@@ -8,11 +8,61 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/font-awesome@6.0.0-beta3/js/all.min.js" integrity="sha384-PLc2LpPjUyFf/cs/fJ1c5p4p8PzzZZeOxFl5S4o0SS7IuILP1gH5moBx0McFYd6" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/ff0f0e9783.js" crossorigin="anonymous"></script>
-
+    <style>/* Custom Styles */
+        .team {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .teammember {
+            text-align: center;
+            flex: 1 1 250px; /* Flex-grow, flex-shrink, flex-basis */
+            margin: 10px;
+        }
+        .teammember img {
+            max-width: 150px;
+            height: auto;
+            border-radius: 50%;
+            border: 3px solid #007bff;
+        }
+        .sociallinks a {
+            margin: 0 10px;
+            color: #333;
+            font-size: 1.5rem;
+        }
+        .sociallinks a:hover {
+            color: #007bff;
+        }
+        footer {
+            padding: 20px;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        .developedby {
+            margin-top: 20px;
+        }
+        .developedby h1 {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #007bff;
+            border: none;
+            color: white;
+            font-size: 1rem;
+        }
+        button a {
+            color: white;
+            text-decoration: none;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }</style>
 
     <title>NEC ATTENDANCE APP | HOME</title>
     <link rel="icon" href="https://res.cloudinary.com/dfl09yw03/image/upload/v1722761173/feuiwzcz46y0nlgf20rj.jpg" type="image/icon type">
-    <link rel="stylesheet" href="HOME.CSS">
+    
 </head>
 <body>
 <br><br><br><br><br><br><br><br>
@@ -66,5 +116,6 @@
             </div>
         </div>
     </footer>
+    <script src="HOME.JS"></script>
 </body>
 </html>
