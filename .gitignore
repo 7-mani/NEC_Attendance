@@ -1,0 +1,10 @@
+# Ignore environment files
+.env
+.HTML
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build directories
+/dist
+/build
