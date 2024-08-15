@@ -471,7 +471,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 messageStudentButton.classList.add("button-disabled");
             } else {
                 messageStudentButton.onclick = () => {
-                    const message = `You are ${student.name} (${student.rollNo}) absent for the ${getFormattedDate()} ~staff of NARASARAOPETA ENGINEERING COLLEGE`;
+                    const message = `You are ${student.name} (${student.rollNo}) absent for the ${getFormattedDate()} ~staff of NARASARA0PETA ENGINEERING COLLEGE`;
                     window.location.href = `sms:+91${student.studentNo}?body=${encodeURIComponent(message)}`;
                 };
             }
@@ -501,7 +501,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 messageParentButton.classList.add("button-disabled");
             } else {
                 messageParentButton.onclick = () => {
-                    const message = `Your ward ${student.name} (${student.rollNo}) is absent for the ${getFormattedDate()} ~staff of NARASARAOPETA ENGINEERING COLLEGE`;
+                    const message = `Your ward ${student.name} (${student.rollNo}) is absent for the ${getFormattedDate()} ~staff of NARASARA0PETA ENGINEERING COLLEGE`;
                     window.location.href = `sms:+91${student.parentNo}?body=${encodeURIComponent(message)}`;
                 };
             }
