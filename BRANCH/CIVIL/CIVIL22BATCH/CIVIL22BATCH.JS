@@ -13,84 +13,84 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         "name": "AMBATI GOPI KRISHNA",
-        "rollNo": "22471A0101",
+        "rollNo": "22471AO101",
         "parentNo": 7893265820,
         "studentNo": 7396382641,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625750/CIVIL22Batch/CIVIL21BatchASection/jwhshdykx8gsjxkctsib.jpg"
       },
       {
         "name": "DEGALA JEEVAN KUMAR",
-        "rollNo": "22471A0102",
+        "rollNo": "22471AO102",
         "parentNo": 7013082074,
         "studentNo": 7013082074,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625748/CIVIL22Batch/CIVIL21BatchASection/mdvwkyhzo41rqfzsne04.jpg"
       },
       {
         "name": "KALAYANAM KATYAYANI",
-        "rollNo": "22471A0103",
+        "rollNo": "22471AO103",
         "parentNo": 9701518793,
         "studentNo": 7671073835,
         "imageUrl": "CIVIL22Batch/CIVIL21BatchASection/vv9xwbx3ruyjopszvk0w"
       },
       {
         "name": "KOLAGANI ARJUN",
-        "rollNo": "22471A0104",
+        "rollNo": "22471AO104",
         "parentNo": 9441537206,
         "studentNo": 6305047132,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625749/CIVIL22Batch/CIVIL21BatchASection/tni32t5g8o8mctqgkzeb.jpg"
       },
       {
         "name": "PATHAN SAMEER",
-        "rollNo": "22471A0106",
+        "rollNo": "22471AO106",
         "parentNo": 7416190723,
         "studentNo": 7995387331,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625749/CIVIL22Batch/CIVIL21BatchASection/k13smw6qfofjdvdw5ysf.jpg"
       },
       {
         "name": "PERUPOGU KARTHIK",
-        "rollNo": "22471A0107",
+        "rollNo": "22471AO107",
         "parentNo": 9705527135,
         "studentNo": 8688663608,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625747/CIVIL22Batch/CIVIL21BatchASection/znj8omcu75lxvktpdoef.jpg"
       },
       {
         "name": "PILLI ASISH KUMAR",
-        "rollNo": "22471A0108",
+        "rollNo": "22471AO108",
         "parentNo": 9392527251,
         "studentNo": 7075407478,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625749/CIVIL22Batch/CIVIL21BatchASection/qeohrwgvyghszrcc7wgv.jpg"
       },
       {
         "name": "SHAIK JOHN BASHA",
-        "rollNo": "22471A0109",
+        "rollNo": "22471AO109",
         "parentNo": 9177287130,
         "studentNo": 7893897142,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625748/CIVIL22Batch/CIVIL21BatchASection/wpi240wle0ziivlo0n3q.jpg"
       },
       {
         "name": "SIVAIAH CHENNABOINA",
-        "rollNo": "22471A0110",
+        "rollNo": "22471AO110",
         "parentNo": 7658963221,
         "studentNo": 6305260136,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625748/CIVIL22Batch/CIVIL21BatchASection/vq5jx7n4xykix0opmke7.jpg"
       },
       {
         "name": "TADIMALLA VENKATA CHANDU",
-        "rollNo": "22471A0111",
+        "rollNo": "22471AO111",
         "parentNo": 9676769367,
         "studentNo": 6304428151,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625749/CIVIL22Batch/CIVIL21BatchASection/ixfroxev8b4sdnjysdv4.jpg"
       },
       {
         "name": "TAMMISETTY AJAY",
-        "rollNo": "22471A0112",
+        "rollNo": "22471AO112",
         "parentNo": 9901333869,
         "studentNo": 9542066620,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625749/CIVIL22Batch/CIVIL21BatchASection/fc4urioolt2u54hnq1n3.jpg"
       },
       {
         "name": "THALLURI ASHOK",
-        "rollNo": "22471A0113",
+        "rollNo": "22471AO113",
         "parentNo": 9701917240,
         "studentNo": 6303649909,
         "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723625748/CIVIL22Batch/CIVIL21BatchASection/gswemzlefigo8gnindbk.jpg"
@@ -347,7 +347,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 messageStudentButton.classList.add("button-disabled");
             } else {
                 messageStudentButton.onclick = () => {
-                    const message = `You are ${student.name} (${student.rollNo}) absent for the ${getFormattedDate()} ~staff of NARASARA0PETA ENGINEERING COLLEGE`;
+                    const message = `You are ${student.name} (${student.rollNo}) absent for the ${getFormattedDate()} ~staff of NARASARAOPETA ENGINEERING COLLEGE`;
                     window.location.href = `sms:+91${student.studentNo}?body=${encodeURIComponent(message)}`;
                 };
             }
@@ -377,7 +377,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 messageParentButton.classList.add("button-disabled");
             } else {
                 messageParentButton.onclick = () => {
-                    const message = `Your ward ${student.name} (${student.rollNo}) is absent for the ${getFormattedDate()} ~staff of NARASARA0PETA ENGINEERING COLLEGE`;
+                    const message = `Your ward ${student.name} (${student.rollNo}) is absent for the ${getFormattedDate()} ~staff of NARASARAOPETA ENGINEERING COLLEGE`;
                     window.location.href = `sms:+91${student.parentNo}?body=${encodeURIComponent(message)}`;
                 };
             }
