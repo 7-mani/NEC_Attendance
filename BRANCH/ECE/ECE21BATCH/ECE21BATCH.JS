@@ -1195,383 +1195,447 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       
     {
-        "name": "AKUMALLA NAGURBI",
-        "rollNo": "21471A04I1",
-        "parentNo": 9704821819,
-        "studentNo": 8790037821
-      },
-      {
-        "name": "ALAMURI SRAVYA",
-        "rollNo": "21471A04I2",
-        "parentNo": 9948279919,
-        "studentNo": 9948279919
-      },
-      {
-        "name": "ANUMALA SETTY SANTAN KUMAR",
-        "rollNo": "21471A04I3",
-        "parentNo": 9440719015,
-        "studentNo": 9381741675
-      },
-      {
-        "name": "BAVISETTI KOMAL SAI",
-        "rollNo": "21471A04I4",
-        "parentNo": 9908296605,
-        "studentNo": 9133058989
-      },
-      {
-        "name": "BODDUPALLI RAJASREE",
-        "rollNo": "21471A04I5",
-        "parentNo": 7671012168,
-        "studentNo": 9989199327
-      },
-      {
-        "name": "BUCHIRAJU ANIL KUMAR",
-        "rollNo": "21471A04I6",
-        "parentNo": 9490687808,
-        "studentNo": 9666973649
-      },
-      {
-        "name": "EGINATI SIVA KRISHNA",
-        "rollNo": "21471A04I7",
-        "parentNo": 9866206702,
-        "studentNo": 9866206702
-      },
-      {
-        "name": "GALI SAMATHA SHARON",
-        "rollNo": "21471A04I8",
-        "parentNo": 9885155384,
-        "studentNo": 9885155384
-      },
-      {
-        "name": "GOPU CHAITANYA PRIYA",
-        "rollNo": "21471A04I9",
-        "parentNo": 7993881783,
-        "studentNo": 6305557101
-      },
-      {
-        "name": "GUDURI SUNNY",
-        "rollNo": "21471A04J0",
-        "parentNo": 8247492290,
-        "studentNo": 9347604554
-      },
-      {
-        "name": "GUNDA SANJAY",
-        "rollNo": "21471A04J1",
-        "parentNo": 9966228196,
-        "studentNo": 9966228196
-      },
-      {
-        "name": "GUNTI VENKATA SAI",
-        "rollNo": "21471A04J2",
-        "parentNo": 9618823347,
-        "studentNo": 9014541597
-      },
-      {
-        "name": "INJAMURI SOWMITH",
-        "rollNo": "21471A04J3",
-        "parentNo": 8309895052,
-        "studentNo": 9154938322
-      },
-      {
-        "name": "JANAPATI PAVAN KUMAR",
-        "rollNo": "21471A04J4",
-        "parentNo": 9949105469,
-        "studentNo": 9949105469
-      },
-      {
-        "name": "JANJANAM RAGHAVENDRA",
-        "rollNo": "21471A04J5",
-        "parentNo": 9985288206,
-        "studentNo": 8374279225
-      },
-      {
-        "name": "KORNEPATI MUKESH",
-        "rollNo": "21471A04J6",
-        "parentNo": 9989913007,
-        "studentNo": 9989913007
-      },
-      {
-        "name": "SANAM KRISHNA VENI",
-        "rollNo": "21471A04J7",
-        "parentNo": 9849919400,
-        "studentNo": 7416152831
-      },
-      {
-        "name": "KRUPANJALI JALLI",
-        "rollNo": "21471A04J8",
-        "parentNo": 9704556445,
-        "studentNo": 7013475252
-      },
-      {
-        "name": "LAKUM NANI",
-        "rollNo": "21471A04J9",
-        "parentNo": 9848684014,
-        "studentNo": 9347771700
-      },
-      {
-        "name": "MACHHA GOPAIAH",
-        "rollNo": "21471A04K0",
-        "parentNo": 9701388796,
-        "studentNo": 7981747002
-      },
-      {
-        "name": "NEELAM MADHUSUDHAN RAO",
-        "rollNo": "21471A04K1",
-        "parentNo": 6300735294,
-        "studentNo": 9704815404
-      },
-      {
-        "name": "MEGHA NAGA SAI NITHIN GADDAM",
-        "rollNo": "21471A04K2",
-        "parentNo": 7981429720,
-        "studentNo": 8499974022
-      },
-      {
-        "name": "MARELLA PAVAN KUMAR",
-        "rollNo": "21471A04K3",
-        "parentNo": 9059717431,
-        "studentNo": 8374809365
-      },
-      {
-        "name": "GANNAVARAM NEELIMA",
-        "rollNo": "21471A04K4",
-        "parentNo": 9963849031,
-        "studentNo": 6309626051
-      },
-      {
-        "name": "PALAVAI AHALYA",
-        "rollNo": "21471A04K5",
-        "parentNo": 9951127825,
-        "studentNo": 9951127825
-      },
-      {
-        "name": "PALLAPU SUBBARAO",
-        "rollNo": "21471A04K6",
-        "parentNo": 9666085884,
-        "studentNo": 7993408584
-      },
-      {
-        "name": "PARELLA AMALA",
-        "rollNo": "21471A04K7",
-        "parentNo": 9951492431,
-        "studentNo": 9182674490
-      },
-      {
-        "name": "PARELLA DURGA PANCHAKSHARI",
-        "rollNo": "21471A04K8",
-        "parentNo": 9951092714,
-        "studentNo": 9182017003
-      },
-      {
-        "name": "PATHAN DILDAR",
-        "rollNo": "21471A04K9",
-        "parentNo": 9640405390,
-        "studentNo": 9346536803
-      },
-      {
-        "name": "PAVULURI ASWINI",
-        "rollNo": "21471A04L0",
-        "parentNo": 7382973845,
-        "studentNo": 6305723369
-      },
-      {
-        "name": "PAYYAVULA DURGA PRASAD",
-        "rollNo": "21471A04L1",
-        "parentNo": 9989171282,
-        "studentNo": 9989171282
-      },
-      {
-        "name": "POTHARLANKA JAYA VYSHNAVI",
-        "rollNo": "21471A04L2",
-        "parentNo": 9177266395,
-        "studentNo": 9177266395
-      },
-      {
-        "name": "RASAPUTRA BALAJI SINGH",
-        "rollNo": "21471A04L4",
-        "parentNo": 9502133018,
-        "studentNo": 9347607480
-      },
-      {
-        "name": "DUDEKULA SEKSHAVALI",
-        "rollNo": "21471A04L5",
-        "parentNo": 9966335372,
-        "studentNo": 8106097852
-      },
-      {
-        "name": "SHAIK ABDUL SALAM",
-        "rollNo": "21471A04L6",
-        "parentNo": 9440283580,
-        "studentNo": 9440283580
-      },
-      {
-        "name": "SHAIK MAHABBI",
-        "rollNo": "21471A04L7",
-        "parentNo": 8143009557,
-        "studentNo": 8143009557
-      },
-      {
-        "name": "SHAIK SHAHEED",
-        "rollNo": "21471A04L8",
-        "parentNo": 9177993341,
-        "studentNo": 7702680890
-      },
-      {
-        "name": "SIRIGUDI KURMA RAO",
-        "rollNo": "21471A04L9",
-        "parentNo": 9121182271,
-        "studentNo": 7093686520
-      },
-      {
-        "name": "VADLAMANI SAI",
-        "rollNo": "21471A04M0",
-        "parentNo": 9949260983,
-        "studentNo": 9391616006
-      },
-      {
-        "name": "YALAMANDA SHAIK MAHABOOBI",
-        "rollNo": "21471A04M1",
-        "parentNo": 9989948232,
-        "studentNo": 9966786741
-      },
-      {
-        "name": "YENUMULA NAVYASRI",
-        "rollNo": "21471A04M2",
-        "parentNo": 9381376449,
-        "studentNo": 7569008191
-      },
-      {
-        "name": "MANUKONDA BRAHMAREDDY",
-        "rollNo": "21471A04M3",
-        "parentNo": 9989152495,
-        "studentNo": 9392812774
-      },
-      {
-        "name": "VEERAVALLI RUDRA AJAY BABU",
-        "rollNo": "21471A04M4",
-        "parentNo": 9618652692,
-        "studentNo": 7675905487
-      },
-      {
-        "name": "BHUKYA BHAVANI VARA PRASAD NAICK",
-        "rollNo": "21471A04M5",
-        "parentNo": 9703728771,
-        "studentNo": 9390228774
-      },
-      {
-        "name": "NAGISETTI BRAHMA TEJA",
-        "rollNo": "21471A04M6",
-        "parentNo": 7671062799,
-        "studentNo": 8106189848
-      },
-      {
-        "name": "TIPPIREDDY RAJASEKHARAREDDY",
-        "rollNo": "21471A04M7",
-        "parentNo": 7013911634,
-        "studentNo": 9640803915
-      },
-      {
-        "name": "DEVARAPALLI LAVANYA",
-        "rollNo": "21471A04M9",
-        "parentNo": 9603851272,
-        "studentNo": 7661812135
-      },
-      {
-        "name": "SHAIK JAKEER",
-        "rollNo": "21471A04N0",
-        "parentNo": 9949775982,
-        "studentNo": 9347368547
-      },
-      {
-        "name": "SHAIK SAPA MOULALI",
-        "rollNo": "21471A04N2",
-        "parentNo": 9618478587,
-        "studentNo": 7013272774
-      },
-      {
-        "name": "MALISETTI LAKSHMAN",
-        "rollNo": "21471A04N3",
-        "parentNo": 9959079901,
-        "studentNo": 7799899066
-      },
-      {
-        "name": "RAMISETTY NARASIMHA RAO",
-        "rollNo": "21471A04N4",
-        "parentNo": 9949657198,
-        "studentNo": 8247563089
-      },
-      {
-        "name": "NANABALA GOPI",
-        "rollNo": "21471A04N5",
-        "parentNo": 9866296260,
-        "studentNo": 7013335928
-      },
-      {
-        "name": "DWARASILA VENKATA SAI KIRAN REDDY",
-        "rollNo": "21471A04N6",
-        "parentNo": 9701050645,
-        "studentNo": 6305001895
-      },
-      {
-        "name": "SIDDIREDDY VEERA BHARATH REDDY",
-        "rollNo": "21471A04N7",
-        "parentNo": 9951488658,
-        "studentNo": 7842453925
-      },
-      {
-        "name": "KONDAMEEDA ASHOK",
-        "rollNo": "21471A04N9",
-        "parentNo": 7893657809,
-        "studentNo": 7671913184
-      },
-      {
-        "name": "CHINKA CHANDRA SEKHARA VARA PRASAD",
-        "rollNo": "21471A04O0",
-        "parentNo": 7981578918,
-        "studentNo": 8328684798
-      },
-      {
-        "name": "SRIPATHI KOTESWARA RAO",
-        "rollNo": "21471A04O1",
-        "parentNo": 6302906388,
-        "studentNo": 6301111490
-      },
-      {
-        "name": "GADE NAGA AKHILA",
-        "rollNo": "21471A04O2",
-        "parentNo": 9908723230,
-        "studentNo": 8247393495
-      },
-      {
-        "name": "ADAPALA LOKESH",
-        "rollNo": "21471A04O3",
-        "parentNo": 9959709393,
-        "studentNo": 7997920881
-      },
-      {
-        "name": "KAMANI VENKATA SIVA KARTHIK MANI",
-        "rollNo": "21471A04O4",
-        "parentNo": 6300323819,
-        "studentNo": 6301892900
-      },
-      {
-        "name": "CHETTU SRINIVASA RAO",
-        "rollNo": "21471A04O5",
-        "parentNo": 7893878995,
-        "studentNo": 7893878995
-      },
-      {
-        "name": "THIMMISETTY CHIRANJEEVI",
-        "rollNo": "21471A04O7",
-        "parentNo": 7569207374,
-        "studentNo": 7569207374
-      },
-      {
-        "name": "GALANKI AKHIL KUMAR",
-        "rollNo": "21471A04O8",
-        "parentNo": 9494422632,
-        "studentNo": 6304812500
-      }
+      "name": "AKUMALLA NAGURBI",
+      "rollNo": "21471A04I1",
+      "parentNo": 9704821819,
+      "studentNo": 8790037821,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616385/ECE21Batch/ECE21BatchDSection/tzj8gqfowu3yvgq24ei9.jpg"
+    },
+    {
+      "name": "ALAMURI SRAVYA",
+      "rollNo": "21471A04I2",
+      "parentNo": 9948279919,
+      "studentNo": 9948279919,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/qyfechm7haei4gdwivrr.jpg"
+    },
+    {
+      "name": "ANUMALA SETTY SANTAN KUMAR",
+      "rollNo": "21471A04I3",
+      "parentNo": 9440719015,
+      "studentNo": 9381741675,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616385/ECE21Batch/ECE21BatchDSection/azklismgu6ifswm1irrw.jpg"
+    },
+    {
+      "name": "BAVISETTI KOMAL SAI",
+      "rollNo": "21471A04I4",
+      "parentNo": 9908296605,
+      "studentNo": 9133058989,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616385/ECE21Batch/ECE21BatchDSection/z5xuozbboso2zd2pr7oq.jpg"
+    },
+    {
+      "name": "BODDUPALLI RAJASREE",
+      "rollNo": "21471A04I5",
+      "parentNo": 7671012168,
+      "studentNo": 9989199327,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616373/ECE21Batch/ECE21BatchDSection/azut1zw2bf6vlj0uzoxx.jpg"
+    },
+    {
+      "name": "BUCHIRAJU ANIL KUMAR",
+      "rollNo": "21471A04I6",
+      "parentNo": 9490687808,
+      "studentNo": 9666973649,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616385/ECE21Batch/ECE21BatchDSection/ikau6vp2xclie9vhl6f3.jpg"
+    },
+    {
+      "name": "EGINATI SIVA KRISHNA",
+      "rollNo": "21471A04I7",
+      "parentNo": 9866206702,
+      "studentNo": 9866206702,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616385/ECE21Batch/ECE21BatchDSection/v7mybwqiinkvxigin1k8.jpg"
+    },
+    {
+      "name": "GALI SAMATHA SHARON",
+      "rollNo": "21471A04I8",
+      "parentNo": 9885155384,
+      "studentNo": 9885155384,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616384/ECE21Batch/ECE21BatchDSection/ualu6tjyo8wrm1b5nepg.jpg"
+    },
+    {
+      "name": "GOPU CHAITANYA PRIYA",
+      "rollNo": "21471A04I9",
+      "parentNo": 7993881783,
+      "studentNo": 6305557101,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616374/ECE21Batch/ECE21BatchDSection/tlzhuh6arvugdbqhlczk.jpg"
+    },
+    {
+      "name": "GUDURI SUNNY",
+      "rollNo": "21471A04J0",
+      "parentNo": 8247492290,
+      "studentNo": 9347604554,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616384/ECE21Batch/ECE21BatchDSection/iq2btbtigkpa05khybrc.jpg"
+    },
+    {
+      "name": "GUNDA SANJAY",
+      "rollNo": "21471A04J1",
+      "parentNo": 9966228196,
+      "studentNo": 9966228196,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616384/ECE21Batch/ECE21BatchDSection/sqoui4j8olfumpivbabe.jpg"
+    },
+    {
+      "name": "GUNTI VENKATA SAI",
+      "rollNo": "21471A04J2",
+      "parentNo": 9618823347,
+      "studentNo": 9014541597,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616384/ECE21Batch/ECE21BatchDSection/c07io64qzrix7sbmz3bs.jpg"
+    },
+    {
+      "name": "INJAMURI SOWMITH",
+      "rollNo": "21471A04J3",
+      "parentNo": 8309895052,
+      "studentNo": 9154938322,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616384/ECE21Batch/ECE21BatchDSection/trjwi0cwtry1scogtjwk.jpg"
+    },
+    {
+      "name": "JANAPATI PAVAN KUMAR",
+      "rollNo": "21471A04J4",
+      "parentNo": 9949105469,
+      "studentNo": 9949105469,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616383/ECE21Batch/ECE21BatchDSection/khew8y0bgij4taktwy9q.jpg"
+    },
+    {
+      "name": "JANJANAM RAGHAVENDRA",
+      "rollNo": "21471A04J5",
+      "parentNo": 9985288206,
+      "studentNo": 8374279225,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616383/ECE21Batch/ECE21BatchDSection/whj6uglh7xs7ywa1qi7z.jpg"
+    },
+    {
+      "name": "KORNEPATI MUKESH",
+      "rollNo": "21471A04J6",
+      "parentNo": 9989913007,
+      "studentNo": 9989913007,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616383/ECE21Batch/ECE21BatchDSection/zsnn2abcvhu7eilwismt.jpg"
+    },
+    {
+      "name": "SANAM KRISHNA VENI",
+      "rollNo": "21471A04J7",
+      "parentNo": 9849919400,
+      "studentNo": 7416152831,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616374/ECE21Batch/ECE21BatchDSection/tcahpknwfbvakgy9sdmo.jpg"
+    },
+    {
+      "name": "KRUPANJALI JALLI",
+      "rollNo": "21471A04J8",
+      "parentNo": 9704556445,
+      "studentNo": 7013475252,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616383/ECE21Batch/ECE21BatchDSection/pciluln3u3i5n8sw3wax.jpg"
+    },
+    {
+      "name": "LAKUM NANI",
+      "rollNo": "21471A04J9",
+      "parentNo": 9848684014,
+      "studentNo": 9347771700,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616374/ECE21Batch/ECE21BatchDSection/ytalnssfivw4mtea337i.jpg"
+    },
+    {
+      "name": "MACHHA GOPAIAH",
+      "rollNo": "21471A04K0",
+      "parentNo": 9701388796,
+      "studentNo": 7981747002,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616383/ECE21Batch/ECE21BatchDSection/puikuee8lfijzoysgy5x.jpg"
+    },
+    {
+      "name": "NEELAM MADHUSUDHAN RAO",
+      "rollNo": "21471A04K1",
+      "parentNo": 6300735294,
+      "studentNo": 9704815404,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616382/ECE21Batch/ECE21BatchDSection/crgzxjhjbkkj8x2lvjpc.jpg"
+    },
+    {
+      "name": "MEGHA NAGA SAI NITHIN GADDAM",
+      "rollNo": "21471A04K2",
+      "parentNo": 7981429720,
+      "studentNo": 8499974022,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616382/ECE21Batch/ECE21BatchDSection/ssfravbiadh50uffd0hz.jpg"
+    },
+    {
+      "name": "MARELLA PAVAN KUMAR",
+      "rollNo": "21471A04K3",
+      "parentNo": 9059717431,
+      "studentNo": 8374809365,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616382/ECE21Batch/ECE21BatchDSection/x561rzq4xaxcn15w8dxg.jpg"
+    },
+    {
+      "name": "GANNAVARAM NEELIMA",
+      "rollNo": "21471A04K4",
+      "parentNo": 9963849031,
+      "studentNo": 6309626051,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616382/ECE21Batch/ECE21BatchDSection/fdmppxfrgrkeghwmoxpr.jpg"
+    },
+    {
+      "name": "PALAVAI AHALYA",
+      "rollNo": "21471A04K5",
+      "parentNo": 9951127825,
+      "studentNo": 9951127825,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616374/ECE21Batch/ECE21BatchDSection/tyxmpy5g8whk9ntrtr5f.jpg"
+    },
+    {
+      "name": "PALLAPU SUBBARAO",
+      "rollNo": "21471A04K6",
+      "parentNo": 9666085884,
+      "studentNo": 7993408584,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616382/ECE21Batch/ECE21BatchDSection/xwnhlhrktfg1agcvzv8o.jpg"
+    },
+    {
+      "name": "PARELLA AMALA",
+      "rollNo": "21471A04K7",
+      "parentNo": 9951492431,
+      "studentNo": 9182674490,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616374/ECE21Batch/ECE21BatchDSection/uww8bn1xravlz5lvyjw7.jpg"
+    },
+    {
+      "name": "PARELLA DURGA PANCHAKSHARI",
+      "rollNo": "21471A04K8",
+      "parentNo": 9951092714,
+      "studentNo": 9182017003,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616373/ECE21Batch/ECE21BatchDSection/pggsdlxbkirsmevcfjjm.jpg"
+    },
+    {
+      "name": "PATHAN DILDAR",
+      "rollNo": "21471A04K9",
+      "parentNo": 9640405390,
+      "studentNo": 9346536803,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616381/ECE21Batch/ECE21BatchDSection/ummmmg9mc4lekn1nutzj.jpg"
+    },
+    {
+      "name": "PAVULURI ASWINI",
+      "rollNo": "21471A04L0",
+      "parentNo": 7382973845,
+      "studentNo": 6305723369,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/hemkcvb7ef2lgx3fxmdb.jpg"
+    },
+    {
+      "name": "PAYYAVULA DURGA PRASAD",
+      "rollNo": "21471A04L1",
+      "parentNo": 9989171282,
+      "studentNo": 9989171282,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616381/ECE21Batch/ECE21BatchDSection/jeqju0suuo9x4ygqaj2i.jpg"
+    },
+    {
+      "name": "POTHARLANKA JAYA VYSHNAVI",
+      "rollNo": "21471A04L2",
+      "parentNo": 9177266395,
+      "studentNo": 9177266395,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/wnlizvln0nzzddw8ubzl.jpg"
+    },
+    {
+      "name": "RASAPUTRA BALAJI SINGH",
+      "rollNo": "21471A04L4",
+      "parentNo": 9502133018,
+      "studentNo": 9347607480,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616381/ECE21Batch/ECE21BatchDSection/bzjyxjqlxatd0owc3ukl.jpg"
+    },
+    {
+      "name": "DUDEKULA SEKSHAVALI",
+      "rollNo": "21471A04L5",
+      "parentNo": 9966335372,
+      "studentNo": 8106097852,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616381/ECE21Batch/ECE21BatchDSection/aujauevsolnu3vpe2huu.jpg"
+    },
+    {
+      "name": "SHAIK ABDUL SALAM",
+      "rollNo": "21471A04L6",
+      "parentNo": 9440283580,
+      "studentNo": 9440283580,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616380/ECE21Batch/ECE21BatchDSection/cw8i4gog53brn8rd2xmk.jpg"
+    },
+    {
+      "name": "SHAIK MAHABBI",
+      "rollNo": "21471A04L7",
+      "parentNo": 8143009557,
+      "studentNo": 8143009557,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/f1wpiydrjzjancshdyiu.jpg"
+    },
+    {
+      "name": "SHAIK SHAHEED",
+      "rollNo": "21471A04L8",
+      "parentNo": 9177993341,
+      "studentNo": 7702680890,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616380/ECE21Batch/ECE21BatchDSection/ktajkhqwg02hfpiahivd.jpg"
+    },
+    {
+      "name": "SIRIGUDI KURMA RAO",
+      "rollNo": "21471A04L9",
+      "parentNo": 9121182271,
+      "studentNo": 7093686520,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616380/ECE21Batch/ECE21BatchDSection/seg7a5bpkzyuobtnscif.jpg"
+    },
+    {
+      "name": "VADLAMANI SAI",
+      "rollNo": "21471A04M0",
+      "parentNo": 9949260983,
+      "studentNo": 9391616006,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616380/ECE21Batch/ECE21BatchDSection/l7jt2loshux0nejhls0b.jpg"
+    },
+    {
+      "name": "YALAMANDA SHAIK MAHABOOBI",
+      "rollNo": "21471A04M1",
+      "parentNo": 9989948232,
+      "studentNo": 9966786741,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616380/ECE21Batch/ECE21BatchDSection/scyuol8wv09hu9zwhps7.jpg"
+    },
+    {
+      "name": "YENUMULA NAVYASRI",
+      "rollNo": "21471A04M2",
+      "parentNo": 9381376449,
+      "studentNo": 7569008191,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616374/ECE21Batch/ECE21BatchDSection/dvctjhlbqndcb8khysiu.jpg"
+    },
+    {
+      "name": "MANUKONDA BRAHMAREDDY",
+      "rollNo": "21471A04M3",
+      "parentNo": 9989152495,
+      "studentNo": 9392812774,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616379/ECE21Batch/ECE21BatchDSection/atn707mgvjnpitcq3jfb.jpg"
+    },
+    {
+      "name": "VEERAVALLI RUDRA AJAY BABU",
+      "rollNo": "21471A04M4",
+      "parentNo": 9618652692,
+      "studentNo": 7675905487,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616379/ECE21Batch/ECE21BatchDSection/cr0ebtnjafdohfktlv0w.jpg"
+    },
+    {
+      "name": "BHUKYA BHAVANI VARA PRASAD NAICK",
+      "rollNo": "21471A04M5",
+      "parentNo": 9703728771,
+      "studentNo": 9390228774,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616379/ECE21Batch/ECE21BatchDSection/qke17rqwo1e2gbzgjo5l.jpg"
+    },
+    {
+      "name": "NAGISETTI BRAHMA TEJA",
+      "rollNo": "21471A04M6",
+      "parentNo": 7671062799,
+      "studentNo": 8106189848,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616379/ECE21Batch/ECE21BatchDSection/nkmkcc2smcx3thkv6k4v.jpg"
+    },
+    {
+      "name": "TIPPIREDDY RAJASEKHARAREDDY",
+      "rollNo": "21471A04M7",
+      "parentNo": 7013911634,
+      "studentNo": 9640803915,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616379/ECE21Batch/ECE21BatchDSection/gmybmfkho5fn5f4vt1yc.jpg"
+    },
+    {
+      "name": "DEVARAPALLI LAVANYA",
+      "rollNo": "21471A04M9",
+      "parentNo": 9603851272,
+      "studentNo": 7661812135,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616373/ECE21Batch/ECE21BatchDSection/ccq7ehstzgwgdjbguzld.jpg"
+    },
+    {
+      "name": "SHAIK JAKEER",
+      "rollNo": "21471A04N0",
+      "parentNo": 9949775982,
+      "studentNo": 9347368547,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616378/ECE21Batch/ECE21BatchDSection/t43kjjnk5fmetsvdwrgg.jpg"
+    },
+    {
+      "name": "SHAIK SAPA MOULALI",
+      "rollNo": "21471A04N2",
+      "parentNo": 9618478587,
+      "studentNo": 7013272774,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/mnbzj0hgdwtyqojhyfk4.jpg"
+    },
+    {
+      "name": "MALISETTI LAKSHMAN",
+      "rollNo": "21471A04N3",
+      "parentNo": 9959079901,
+      "studentNo": 7799899066,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616378/ECE21Batch/ECE21BatchDSection/xwckjrsrjs6sr0p4iqiz.jpg"
+    },
+    {
+      "name": "RAMISETTY NARASIMHA RAO",
+      "rollNo": "21471A04N4",
+      "parentNo": 9949657198,
+      "studentNo": 8247563089,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616378/ECE21Batch/ECE21BatchDSection/v6n2gyavhwkbgv6jwgzp.jpg"
+    },
+    {
+      "name": "NANABALA GOPI",
+      "rollNo": "21471A04N5",
+      "parentNo": 9866296260,
+      "studentNo": 7013335928,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616377/ECE21Batch/ECE21BatchDSection/m4kt6pcorluopupsbuus.jpg"
+    },
+    {
+      "name": "DWARASILA VENKATA SAI KIRAN REDDY",
+      "rollNo": "21471A04N6",
+      "parentNo": 9701050645,
+      "studentNo": 6305001895,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/ottdpabhvmju62dky8lm.jpg"
+    },
+    {
+      "name": "SIDDIREDDY VEERA BHARATH REDDY",
+      "rollNo": "21471A04N7",
+      "parentNo": 9951488658,
+      "studentNo": 7842453925,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616377/ECE21Batch/ECE21BatchDSection/sm75y3uwva259xo0n9s2.jpg"
+    },
+    {
+      "name": "KONDAMEEDA ASHOK",
+      "rollNo": "21471A04N9",
+      "parentNo": 7893657809,
+      "studentNo": 7671913184,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616377/ECE21Batch/ECE21BatchDSection/uje8qvazydco48sr4zea.jpg"
+    },
+    {
+      "name": "CHINKA CHANDRA SEKHARA VARA PRASAD",
+      "rollNo": "21471A04O0",
+      "parentNo": 7981578918,
+      "studentNo": 8328684798,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616377/ECE21Batch/ECE21BatchDSection/q4x7krxb3jpymhepkvgh.jpg"
+    },
+    {
+      "name": "SRIPATHI KOTESWARA RAO",
+      "rollNo": "21471A04O1",
+      "parentNo": 6302906388,
+      "studentNo": 6301111490,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616377/ECE21Batch/ECE21BatchDSection/g5nucjt9rwkm4oz8lprm.jpg"
+    },
+    {
+      "name": "GADE NAGA AKHILA",
+      "rollNo": "21471A04O2",
+      "parentNo": 9908723230,
+      "studentNo": 8247393495,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616376/ECE21Batch/ECE21BatchDSection/fjjttgfieyoapck11xiw.jpg"
+    },
+    {
+      "name": "ADAPALA LOKESH",
+      "rollNo": "21471A04O3",
+      "parentNo": 9959709393,
+      "studentNo": 7997920881,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616376/ECE21Batch/ECE21BatchDSection/wynagdbv3hb1vwrxximp.jpg"
+    },
+    {
+      "name": "KAMANI VENKATA SIVA KARTHIK MANI",
+      "rollNo": "21471A04O4",
+      "parentNo": 6300323819,
+      "studentNo": 6301892900,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/zimhcg2gssp0x2ojd1gf.jpg"
+    },
+    {
+      "name": "CHETTU SRINIVASA RAO",
+      "rollNo": "21471A04O5",
+      "parentNo": 7893878995,
+      "studentNo": 7893878995,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616376/ECE21Batch/ECE21BatchDSection/zfa6tr3mhzpytcggur3w.jpg"
+    },
+    {
+      "name": "THIMMISETTY CHIRANJEEVI",
+      "rollNo": "21471A04O7",
+      "parentNo": 7569207374,
+      "studentNo": 7569207374,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616376/ECE21Batch/ECE21BatchDSection/kpeb9rdgaxzsd4y4wt3m.jpg"
+    },
+    {
+      "name": "GALANKI AKHIL KUMAR",
+      "rollNo": "21471A04O8",
+      "parentNo": 9494422632,
+      "studentNo": 6304812500,
+      "imageUrl": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723616375/ECE21Batch/ECE21BatchDSection/q3tqmkmzrybjhz9k9gst.jpg"
+    }
+
     
     ];
 
