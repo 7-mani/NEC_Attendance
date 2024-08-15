@@ -115,6 +115,19 @@
             </div>
         </div>
     </footer>
+
+    <script>
+        const username = prompt("Enter Username:");
+        const password = prompt("Enter Password:");
+
+        if (username === "admin" && password === "12345678@nec") {
+            // grant access
+        } else {
+            alert("Access Denied");
+            window.location.href = "http://127.0.0.1:5501/SELECTBRANCH/SELECTBRANCH.HTML"; // Redirect to another site
+        }
+    </script>
+
 </body>
 
 </html>
